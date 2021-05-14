@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>out5.jpg</filename>
+	<path>C:\Users\Divyesh12\Documents\academics\sem2\vlg\training_demo\images\test\out5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>duck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>269</ymin>
+			<xmax>441</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>
